@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16dc52a-9caf-44c0-b712-24dbf2b9975c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UserProfileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserProfileController.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -174,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675576052345</updated>
       <workItem from="1675576053813" duration="31528000" />
-      <workItem from="1675668097827" duration="739000" />
+      <workItem from="1675668097827" duration="1422000" />
     </task>
     <servers />
   </component>
